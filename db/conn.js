@@ -2,7 +2,6 @@ const mongoose = require("mongoose");
 
 // info DOTENV FILE ACCESS
 const DB = process.env.DB;
-console.log(DB);
 
 // comments :- CONNECTION WITH MONGODB ATLAS
 mongoose
